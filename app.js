@@ -95,6 +95,8 @@
 // document.write("The smallest number is " + smallestNum);
 
 // QUE : 10
-for (var i = 5; i <= 100; i += 5) {
-    document.write(i + " ,");
-}
+// for (var i = 5; i <= 100; i += 5) {
+//     document.write(i + " ,");
+// }
+
+// ------ The End :) -------
